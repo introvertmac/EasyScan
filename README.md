@@ -77,4 +77,4 @@ Cache-Control                Insecure        Medium     Set 'Cache-Control' head
 
 Keep in mind that the script may not cover all possible security scenarios, and it's recommended to perform a thorough security assessment for your website.
 
-If you have any questions, please reach out on Twitter @introvertmac.
+If you have any questions, please reach out on Twitter [@introvertmac](https://twitter.com/introvertmac007).
