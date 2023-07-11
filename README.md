@@ -79,4 +79,4 @@ Keep in mind that the script may not cover all possible security scenarios, and 
 
 EasyScan is also available at https://easyscan.onrender.com/
 
-If you have any questions or need a full security audit, please reach out on Twitter [@introvertmac](https://twitter.com/introvertmac007).
+If you have any questions or need a full security audit, please reach out on Twitter [@introvertmac007](https://twitter.com/introvertmac007).
